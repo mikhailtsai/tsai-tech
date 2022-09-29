@@ -35,7 +35,7 @@
     "compass": "^0.1.1",
     "compass-mixins": "^0.12.10",
     "core-js": "^2.5.4",
-    "d3": "^5.7.0",
+    "d3": "^7.6.1",
     "dayjs": "^1.7.8",
     "ejs": "^2.6.1",
     "material-design-icons": "^3.0.1",
